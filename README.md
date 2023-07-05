@@ -58,7 +58,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Uzair's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/uzair0072/github-readme-stats)
+[![Uzair's github stats](https://github-readme-stats.vercel.app/api?username=uzair0072&theme=gotham)](https://github.com/uzair0072/github-readme-stats)
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
